@@ -40,3 +40,6 @@
 - Make sure Proxyman is properly intercepting HTTPS traffic
 - Keep a backup of your original configuration before attempting this process
 - This process may need to be repeated if the software updates
+
+![Keymap Layout](114781aa9e26c56002ed8f611a9b3554dc2e0f52.png)
+reference keycodes for the json
