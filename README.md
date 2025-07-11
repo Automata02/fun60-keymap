@@ -13,7 +13,7 @@
 
 2. **Initiate Cloud Backup**
    - Open Monsgeek software
-   - Navigate to cloud backup feature under Settings
+   - Navigate to cloud backup feature under Profile
    - Start a cloud backup process
 
 3. **Intercept the API Request**
