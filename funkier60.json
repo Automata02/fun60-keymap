@@ -1,0 +1,905 @@
+{
+  "configs": [
+    {
+      "isShared": false,
+      "hasUpload": true,
+      "needDelete": false,
+      "serverId": 811263,
+      "name": "FUNKIER60 PRO_1",
+      "category": "",
+      "dpi": null,
+      "reportRate": 125,
+      "value": [
+        {
+          "type": "ConfigFunction",
+          "original": 228,
+          "key": "fn"
+        },
+        {
+          "type": "combo",
+          "original": 167837696,
+          "skey": "ctrl",
+          "key": 0,
+          "key2": 0
+        },
+        {
+          "type": "combo",
+          "original": 57,
+          "skey": "ctrl",
+          "key": 0,
+          "key2": 0
+        }
+      ],
+      "light": {
+        "type": "LightOff"
+      },
+      "logoLight": null,
+      "lightPic": null,
+      "createAt": "2025-07-09T08:51:53.000Z",
+      "updatedAt": "2025-07-09T08:51:53.000Z",
+      "deviceType": {
+        "support_onboard": 2,
+        "version": "0",
+        "lowestAppVersion": "0.9.0",
+        "group": "rongyuan_k_rgb",
+        "company": "MonsGeek",
+        "needLock": false,
+        "displayName": "FUN60 PRO",
+        "id": 2304,
+        "name": "ry5088_fun60pro_8k_dm_002",
+        "vid": 12625,
+        "pid": 20525,
+        "type": "keyboard",
+        "usage": 2,
+        "usagePage": 65535,
+        "featureReportByteLength": 65,
+        "layout": {
+          "light": {
+            "isRgb": true,
+            "types": [
+              {
+                "type": "LightAlwaysOn",
+                "maxValue": 4,
+                "minValue": 0,
+                "rgb": true,
+                "dazzle": true
+              },
+              {
+                "type": "LightBreath",
+                "maxValue": 4,
+                "minValue": 0,
+                "maxSpeed": 4,
+                "minSpeed": 0,
+                "rgb": true,
+                "dazzle": true
+              },
+              {
+                "type": "LightMeteor",
+                "maxValue": 4,
+                "minValue": 0,
+                "maxSpeed": 4,
+                "minSpeed": 0,
+                "rgb": true,
+                "dazzle": true
+              },
+              {
+                "type": "LightRipple",
+                "maxValue": 4,
+                "minValue": 0,
+                "maxSpeed": 4,
+                "minSpeed": 0,
+                "rgb": true,
+                "dazzle": true
+              },
+              {
+                "type": "LightTrain",
+                "maxValue": 4,
+                "minValue": 0,
+                "maxSpeed": 4,
+                "minSpeed": 0,
+                "rgb": true,
+                "dazzle": true
+              },
+              {
+                "type": "LightRainDown",
+                "maxValue": 4,
+                "minValue": 0,
+                "maxSpeed": 4,
+                "minSpeed": 0,
+                "rgb": true,
+                "dazzle": true
+              },
+              {
+                "type": "LightConverage",
+                "maxValue": 4,
+                "minValue": 0,
+                "maxSpeed": 4,
+                "minSpeed": 0,
+                "rgb": true,
+                "dazzle": true
+              },
+              {
+                "type": "LightSnake",
+                "maxValue": 4,
+                "minValue": 0,
+                "maxSpeed": 4,
+                "minSpeed": 0,
+                "options": [
+                  "z",
+                  "return"
+                ],
+                "rgb": true,
+                "dazzle": true
+              },
+              {
+                "type": "LightNeon",
+                "maxValue": 4,
+                "minValue": 0,
+                "maxSpeed": 4,
+                "minSpeed": 0
+              },
+              {
+                "type": "LightWave",
+                "maxValue": 4,
+                "minValue": 0,
+                "maxSpeed": 4,
+                "minSpeed": 0,
+                "options": [
+                  "down",
+                  "up"
+                ],
+                "rgb": true,
+                "dazzle": true
+              },
+              {
+                "type": "LightRaindrop",
+                "maxValue": 4,
+                "minValue": 0,
+                "maxSpeed": 4,
+                "minSpeed": 0,
+                "rgb": true,
+                "dazzle": true
+              },
+              {
+                "type": "LightPressAction",
+                "maxValue": 4,
+                "minValue": 0,
+                "maxSpeed": 4,
+                "minSpeed": 0,
+                "rgb": true,
+                "dazzle": true
+              },
+              {
+                "type": "LightSineWave",
+                "maxValue": 4,
+                "minValue": 0,
+                "maxSpeed": 4,
+                "minSpeed": 0,
+                "rgb": true,
+                "dazzle": true
+              },
+              {
+                "type": "LightKaleidoscope",
+                "maxValue": 4,
+                "minValue": 0,
+                "maxSpeed": 4,
+                "minSpeed": 0,
+                "options": [
+                  "out",
+                  "in"
+                ],
+                "rgb": true,
+                "dazzle": true
+              },
+              {
+                "type": "LightLineWave",
+                "maxValue": 4,
+                "minValue": 0,
+                "maxSpeed": 4,
+                "minSpeed": 0,
+                "rgb": true,
+                "dazzle": true
+              },
+              {
+                "type": "LightLaser",
+                "maxValue": 4,
+                "minValue": 0,
+                "maxSpeed": 4,
+                "minSpeed": 0,
+                "rgb": true,
+                "dazzle": true
+              },
+              {
+                "type": "LightCircleWave",
+                "maxValue": 4,
+                "minValue": 0,
+                "maxSpeed": 4,
+                "minSpeed": 0,
+                "options": [
+                  "anti-clockwise",
+                  "clockwise"
+                ],
+                "rgb": true,
+                "dazzle": true
+              },
+              {
+                "type": "LightDazzing",
+                "maxValue": 4,
+                "minValue": 0,
+                "maxSpeed": 4,
+                "minSpeed": 0,
+                "rgb": true,
+                "dazzle": true
+              },
+              {
+                "type": "LightPressActionOff",
+                "maxValue": 4,
+                "minValue": 0,
+                "maxSpeed": 4,
+                "minSpeed": 0,
+                "rgb": true,
+                "dazzle": true
+              },
+              {
+                "type": "LightFireWorks",
+                "maxValue": 4,
+                "minValue": 0,
+                "maxSpeed": 4,
+                "minSpeed": 0,
+                "options": [
+                  "right",
+                  "left"
+                ],
+                "rgb": true,
+                "dazzle": true
+              },
+              {
+                "type": "LightUserPicture",
+                "maxValue": 4,
+                "minValue": 0
+              },
+              {
+                "type": "LightMusicFollow3",
+                "maxValue": 4,
+                "minValue": 0,
+                "options": [
+                  "upright",
+                  "separate",
+                  "intersect"
+                ],
+                "rgb": true,
+                "dazzle": true
+              },
+              {
+                "type": "LightMusicFollow2",
+                "maxValue": 4,
+                "minValue": 0,
+                "options": [
+                  "upright",
+                  "separate",
+                  "intersect"
+                ],
+                "rgb": true,
+                "dazzle": true
+              },
+              {
+                "type": "LightScreenColor"
+              }
+            ]
+          },
+          "reportRate": [
+            125,
+            250,
+            500,
+            1000
+          ]
+        },
+        "upgradeFileName": null
+      },
+      "user": {
+        "gender": "female",
+        "id": 0,
+        "name": "",
+        "email": "",
+        "company": "MonsGeek",
+        "deviceTypes": []
+      },
+      "localId": "af3bd2e8-57a0-4c23-a539-dc7d9eb008eb"
+    },
+    {
+      "isShared": false,
+      "hasUpload": true,
+      "needDelete": false,
+      "serverId": 811265,
+      "name": "FUNKIER60 PRO_Fn_1",
+      "category": "",
+      "dpi": null,
+      "reportRate": 125,
+      "value": [
+        {
+          "type": "combo",
+          "original": 41,
+          "skey": "none",
+          "key": 53,
+          "key2": 0
+        },
+        {
+          "type": "combo",
+          "original": 57
+        },
+        {
+          "type": "combo",
+          "original": 225
+        },
+        {
+          "type": "combo",
+          "original": 224
+        },
+        {
+          "type": "combo",
+          "original": 30,
+          "skey": "none",
+          "key": 58,
+          "key2": 0
+        },
+        {
+          "type": "combo",
+          "original": 20
+        },
+        {
+          "type": "combo",
+          "original": 4
+        },
+        {
+          "type": "combo",
+          "original": 31,
+          "skey": "none",
+          "key": 59,
+          "key2": 0
+        },
+        {
+          "type": "combo",
+          "original": 26
+        },
+        {
+          "type": "combo",
+          "original": 22
+        },
+        {
+          "type": "combo",
+          "original": 29
+        },
+        {
+          "type": "combo",
+          "original": 227,
+          "key": 227
+        },
+        {
+          "type": "combo",
+          "original": 32,
+          "skey": "none",
+          "key": 60,
+          "key2": 0
+        },
+        {
+          "type": "combo",
+          "original": 8
+        },
+        {
+          "type": "combo",
+          "original": 7
+        },
+        {
+          "type": "combo",
+          "original": 27
+        },
+        {
+          "type": "combo",
+          "original": 226
+        },
+        {
+          "type": "combo",
+          "original": 33,
+          "skey": "none",
+          "key": 61,
+          "key2": 0
+        },
+        {
+          "type": "combo",
+          "original": 21
+        },
+        {
+          "type": "combo",
+          "original": 9
+        },
+        {
+          "type": "combo",
+          "original": 34,
+          "skey": "none",
+          "key": 62,
+          "key2": 0
+        },
+        {
+          "type": "combo",
+          "original": 23
+        },
+        {
+          "type": "ConfigFunction",
+          "original": 10,
+          "key": "profile_exchange"
+        },
+        {
+          "type": "combo",
+          "original": 25
+        },
+        {
+          "type": "combo",
+          "original": 35,
+          "skey": "none",
+          "key": 63,
+          "key2": 0
+        },
+        {
+          "type": "combo",
+          "original": 28
+        },
+        {
+          "type": "ConfigFunction",
+          "original": 11,
+          "key": "profile_exchange2"
+        },
+        {
+          "type": "combo",
+          "original": 5
+        },
+        {
+          "type": "combo",
+          "original": 44
+        },
+        {
+          "type": "combo",
+          "original": 36,
+          "skey": "none",
+          "key": 64,
+          "key2": 0
+        },
+        {
+          "type": "combo",
+          "original": 24
+        },
+        {
+          "type": "ConfigFunction",
+          "original": 13,
+          "key": "profile_exchange3"
+        },
+        {
+          "type": "combo",
+          "original": 17
+        },
+        {
+          "type": "combo",
+          "original": 37,
+          "skey": "none",
+          "key": 65,
+          "key2": 0
+        },
+        {
+          "type": "ConfigFunction",
+          "original": 14,
+          "key": "profile_exchange4"
+        },
+        {
+          "type": "combo",
+          "original": 38,
+          "skey": "none",
+          "key": 66,
+          "key2": 0
+        },
+        {
+          "type": "combo",
+          "original": 18,
+          "key": 18
+        },
+        {
+          "type": "combo",
+          "original": 15,
+          "key": 15
+        },
+        {
+          "type": "combo",
+          "original": 39,
+          "skey": "none",
+          "key": 67,
+          "key2": 0
+        },
+        {
+          "type": "combo",
+          "original": 51,
+          "key": 80
+        },
+        {
+          "type": "combo",
+          "original": 230,
+          "key": 230
+        },
+        {
+          "type": "combo",
+          "original": 45,
+          "skey": "none",
+          "key": 68,
+          "key2": 0
+        },
+        {
+          "type": "combo",
+          "original": 47,
+          "key": 80
+        },
+        {
+          "type": "combo",
+          "original": 52,
+          "key": 79
+        },
+        {
+          "type": "combo",
+          "original": 56,
+          "key": 81
+        },
+        {
+          "type": "combo",
+          "original": 167837696
+        },
+        {
+          "type": "combo",
+          "original": 46,
+          "skey": "none",
+          "key": 69,
+          "key2": 0
+        },
+        {
+          "type": "combo",
+          "original": 48,
+          "key": 76
+        },
+        {
+          "type": "combo",
+          "original": 229
+        },
+        {
+          "type": "combo",
+          "original": 101
+        },
+        {
+          "type": "combo",
+          "original": 42,
+          "skey": "none",
+          "key": 76,
+          "key2": 0
+        },
+        {
+          "type": "combo",
+          "original": 49,
+          "key": 49
+        },
+        {
+          "type": "combo",
+          "original": 40,
+          "key": 40
+        },
+        {
+          "type": "combo",
+          "original": 228
+        },
+        {
+          "type": "combo",
+          "original": 43,
+          "skey": "none",
+          "key": 57,
+          "key2": 0
+        },
+        {
+          "original": 6,
+          "type": "combo"
+        },
+        {
+          "original": 12,
+          "type": "combo"
+        },
+        {
+          "original": 19,
+          "type": "combo"
+        },
+        {
+          "original": 55,
+          "type": "combo"
+        },
+        {
+          "original": 54,
+          "type": "combo"
+        },
+        {
+          "original": 16,
+          "type": "combo"
+        }
+      ],
+      "light": {
+        "type": "LightOff"
+      },
+      "logoLight": null,
+      "lightPic": null,
+      "createAt": "2025-07-09T08:52:11.000Z",
+      "updatedAt": "2025-07-09T08:52:11.000Z",
+      "deviceType": {
+        "support_onboard": 2,
+        "version": "0",
+        "lowestAppVersion": "0.9.0",
+        "group": "rongyuan_k_rgb",
+        "company": "MonsGeek",
+        "needLock": false,
+        "displayName": "FUN60 PRO",
+        "id": 2304,
+        "name": "ry5088_fun60pro_8k_dm_002",
+        "vid": 12625,
+        "pid": 20525,
+        "type": "keyboard",
+        "usage": 2,
+        "usagePage": 65535,
+        "featureReportByteLength": 65,
+        "layout": {
+          "light": {
+            "isRgb": true,
+            "types": [
+              {
+                "type": "LightAlwaysOn",
+                "maxValue": 4,
+                "minValue": 0,
+                "rgb": true,
+                "dazzle": true
+              },
+              {
+                "type": "LightBreath",
+                "maxValue": 4,
+                "minValue": 0,
+                "maxSpeed": 4,
+                "minSpeed": 0,
+                "rgb": true,
+                "dazzle": true
+              },
+              {
+                "type": "LightMeteor",
+                "maxValue": 4,
+                "minValue": 0,
+                "maxSpeed": 4,
+                "minSpeed": 0,
+                "rgb": true,
+                "dazzle": true
+              },
+              {
+                "type": "LightRipple",
+                "maxValue": 4,
+                "minValue": 0,
+                "maxSpeed": 4,
+                "minSpeed": 0,
+                "rgb": true,
+                "dazzle": true
+              },
+              {
+                "type": "LightTrain",
+                "maxValue": 4,
+                "minValue": 0,
+                "maxSpeed": 4,
+                "minSpeed": 0,
+                "rgb": true,
+                "dazzle": true
+              },
+              {
+                "type": "LightRainDown",
+                "maxValue": 4,
+                "minValue": 0,
+                "maxSpeed": 4,
+                "minSpeed": 0,
+                "rgb": true,
+                "dazzle": true
+              },
+              {
+                "type": "LightConverage",
+                "maxValue": 4,
+                "minValue": 0,
+                "maxSpeed": 4,
+                "minSpeed": 0,
+                "rgb": true,
+                "dazzle": true
+              },
+              {
+                "type": "LightSnake",
+                "maxValue": 4,
+                "minValue": 0,
+                "maxSpeed": 4,
+                "minSpeed": 0,
+                "options": [
+                  "z",
+                  "return"
+                ],
+                "rgb": true,
+                "dazzle": true
+              },
+              {
+                "type": "LightNeon",
+                "maxValue": 4,
+                "minValue": 0,
+                "maxSpeed": 4,
+                "minSpeed": 0
+              },
+              {
+                "type": "LightWave",
+                "maxValue": 4,
+                "minValue": 0,
+                "maxSpeed": 4,
+                "minSpeed": 0,
+                "options": [
+                  "down",
+                  "up"
+                ],
+                "rgb": true,
+                "dazzle": true
+              },
+              {
+                "type": "LightRaindrop",
+                "maxValue": 4,
+                "minValue": 0,
+                "maxSpeed": 4,
+                "minSpeed": 0,
+                "rgb": true,
+                "dazzle": true
+              },
+              {
+                "type": "LightPressAction",
+                "maxValue": 4,
+                "minValue": 0,
+                "maxSpeed": 4,
+                "minSpeed": 0,
+                "rgb": true,
+                "dazzle": true
+              },
+              {
+                "type": "LightSineWave",
+                "maxValue": 4,
+                "minValue": 0,
+                "maxSpeed": 4,
+                "minSpeed": 0,
+                "rgb": true,
+                "dazzle": true
+              },
+              {
+                "type": "LightKaleidoscope",
+                "maxValue": 4,
+                "minValue": 0,
+                "maxSpeed": 4,
+                "minSpeed": 0,
+                "options": [
+                  "out",
+                  "in"
+                ],
+                "rgb": true,
+                "dazzle": true
+              },
+              {
+                "type": "LightLineWave",
+                "maxValue": 4,
+                "minValue": 0,
+                "maxSpeed": 4,
+                "minSpeed": 0,
+                "rgb": true,
+                "dazzle": true
+              },
+              {
+                "type": "LightLaser",
+                "maxValue": 4,
+                "minValue": 0,
+                "maxSpeed": 4,
+                "minSpeed": 0,
+                "rgb": true,
+                "dazzle": true
+              },
+              {
+                "type": "LightCircleWave",
+                "maxValue": 4,
+                "minValue": 0,
+                "maxSpeed": 4,
+                "minSpeed": 0,
+                "options": [
+                  "anti-clockwise",
+                  "clockwise"
+                ],
+                "rgb": true,
+                "dazzle": true
+              },
+              {
+                "type": "LightDazzing",
+                "maxValue": 4,
+                "minValue": 0,
+                "maxSpeed": 4,
+                "minSpeed": 0,
+                "rgb": true,
+                "dazzle": true
+              },
+              {
+                "type": "LightPressActionOff",
+                "maxValue": 4,
+                "minValue": 0,
+                "maxSpeed": 4,
+                "minSpeed": 0,
+                "rgb": true,
+                "dazzle": true
+              },
+              {
+                "type": "LightFireWorks",
+                "maxValue": 4,
+                "minValue": 0,
+                "maxSpeed": 4,
+                "minSpeed": 0,
+                "options": [
+                  "right",
+                  "left"
+                ],
+                "rgb": true,
+                "dazzle": true
+              },
+              {
+                "type": "LightUserPicture",
+                "maxValue": 4,
+                "minValue": 0
+              },
+              {
+                "type": "LightMusicFollow3",
+                "maxValue": 4,
+                "minValue": 0,
+                "options": [
+                  "upright",
+                  "separate",
+                  "intersect"
+                ],
+                "rgb": true,
+                "dazzle": true
+              },
+              {
+                "type": "LightMusicFollow2",
+                "maxValue": 4,
+                "minValue": 0,
+                "options": [
+                  "upright",
+                  "separate",
+                  "intersect"
+                ],
+                "rgb": true,
+                "dazzle": true
+              },
+              {
+                "type": "LightScreenColor"
+              }
+            ]
+          },
+          "reportRate": [
+            125,
+            250,
+            500,
+            1000
+          ]
+        },
+        "upgradeFileName": null
+      },
+      "user": {
+        "gender": "female",
+        "id": 0,
+        "name": "",
+        "email": "",
+        "company": "MonsGeek",
+        "deviceTypes": []
+      },
+      "localId": "e080e6ac-7982-498e-9472-5616f9f0dcce"
+    }
+  ],
+  "macros": [],
+  "needDeleteConfigIds": [],
+  "needDeleteMacroIds": [],
+  "company": "MonsGeek"
+}
