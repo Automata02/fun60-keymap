@@ -24,7 +24,7 @@
    - Right-click on the backup POST request
    - Select "Edit and Retry" or whats it called
    - In the request body, replace the existing content with `funkier60`
-   - add your secific user.id, user.name and user.email
+   - add your user.id, user.name and user.email to both layers of funkier60 json (you can see the id in the 3rd steps json)
    - Send the modified request
 
 5. **Retrieve Modified Backup**
