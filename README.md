@@ -28,22 +28,23 @@
    - Right-click on the backup download request and select "Map Local"
    - Set up a local response mapping for this endpoint
    
-   ![Response Structure](response.png)
+   <img src="response.png" alt="Response Structure" width="200px">
+   
    *This shows the part of the response that needs to be replaced with the funkier60 configuration*
 
-6. **Prepare Modified Configuration**
+7. **Prepare Modified Configuration**
    - Open the `funkier60.json` file
    - Replace the "configs" entry in your local mapped response with the funkier60 configuration
 
-7. **Second Cloud Backup Download with Modified Response**
+8. **Second Cloud Backup Download with Modified Response**
    - With local mapping enabled in Proxyman, perform another cloud backup download
    - This download should now return the modified keymap from your local mapping
 
-8. **Apply the Modified Keymap**
+9. **Apply the Modified Keymap**
    - In Monsgeek software, switch to the modified fn layer keymap
    - The new keymap configuration should now be active
 
-9. **Restart if Needed**
+10. **Restart if Needed**
    - If changes don't appear immediately, restart Monsgeek software
    - The keymap should work, though the software might have some difficulty displaying the fn layer correctly when editing, but the changes should stick
 
